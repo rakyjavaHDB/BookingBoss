@@ -11,7 +11,7 @@ https://github.com/rakyjavaHDB/BookingBoss.git
 
 **2. Create Mysql database**
 ```bash
-create database user_database
+create database users_database
 ```
 
 **3. Change mysql username and password as per your installation**
