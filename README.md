@@ -6,7 +6,7 @@
 **1. Clone the application**
 
 ```bash
-https://github.com/givanthak/spring-boot-rest-api-tutorial.git
+https://github.com/rakyjavaHDB/BookingBoss.git
 ```
 
 **2. Create Mysql database**
@@ -24,7 +24,7 @@ create database user_database
 
 ```bash
 mvn package
-java -jar target/spring-boot-rest-api-tutorial-0.0.1-SNAPSHOT.jar
+java -jar target/BookingBoss-0.0.1-SNAPSHOT.jar
 
 ```
 
